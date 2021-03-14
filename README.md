@@ -21,4 +21,4 @@ Software: Jupyter Notebook, Python 3.8.6, Tableau Public 2020.4
 ## Results
 
 
-![election_results_printout](Resources/election_results_printout.PNG)
+![Story 1](Resources/Story 1.png)
