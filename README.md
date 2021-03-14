@@ -21,4 +21,4 @@ Software: Jupyter Notebook, Python 3.8.6, Tableau Public 2020.4
 ## Results
 
 
-![Story 1](Resources/Story 1.png)
+![Story1](Resources/Story1.png)
