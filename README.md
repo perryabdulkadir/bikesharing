@@ -17,8 +17,6 @@ For this project, I have used data from August 2019. I aim to answer the followi
 
 
 ## Resources
-Data source: election_results.csv
-
 Software: Jupyter Notebook, Python 3.8.6, Tableau Public 2020.4
 
 ## Results
