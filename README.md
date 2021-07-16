@@ -42,6 +42,8 @@ concat_bike_data = pd.concat([bike_data_df, bike_data_datetime], axis = 1)
 concat_bike_data.to_csv('concat_bike_data.csv', index = False)
 ```
 
+### Creating the Visualizations in Tableau
+
 ## Results
 
 The overwhelming majority of trips last less than an hour, and many last less than 15 minutes.
