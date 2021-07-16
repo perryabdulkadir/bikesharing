@@ -1,6 +1,6 @@
 # Bikesharing
 
-Columbia Data Science Module 14
+Using Python and Tableau to create visualizations analyzing the Citi bike rideshare service
 
 
 **[Link to Tableau Story](https://public.tableau.com/profile/perry2045#!/vizhome/Module14ChallengeFinal_16155988479150/Story1?publish=yes)**
