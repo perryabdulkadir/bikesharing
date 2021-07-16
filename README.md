@@ -51,3 +51,12 @@ There are a few key takeaways as we look to implementing a bikesharing program i
 
 ### Future Analyses
 There are a number of key deifferences between the NYC and Des Moines markets that are worthy of exploration. First, in NYC the large majority of rides lasted around 15 minutes, and almost all of them were less than an hour. However, NYC is much more densely packed than Des Moines. It is possible that ride times could be much greater in a place with urban sprawl. For that reason, it is worth investigating a ride sharing program in a city with greater urban sprawl. Second, it is important to consider the factor of weather. NYC has a much milder climate than Des Moines; it is reasonable to think that ridership in Des Moines will fall off much more steeply than in New York during the winter. For this reason, it would be worthwhile to investigate bikesharing programs in similarly cold Upper Midwestern/Great Lakes metro areas such as the Twin Cities, Milwaukee, or Chicago.
+
+
+-----
+
+### **Contact:**
+
+**Email:** perry.abdulkadir@alumni.harvard.edu
+
+**Linkedin:** https://www.linkedin.com/in/perry-abdulkadir-6a255199/
