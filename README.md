@@ -6,7 +6,7 @@ Columbia Data Science Module 14
 **[Link to Tableau Story](https://public.tableau.com/profile/perry2045#!/vizhome/Module14ChallengeFinal_16155988479150/Story1?publish=yes)**
 
 ## Bikesharing Overview
-In this project, I have created a series of data visualizations in anticipation of a pitch meeting; we are going to propose a bikesharing system for Des Moines that operates similarly to the Citi Bike system in New York City. Fortunately, Citi has made the ride data publicly available [here:](https://www.citibikenyc.com/system-data)
+In this project, I have created a series of data visualizations in anticipation of a pitch meeting; we are going to propose a bikesharing system for Des Moines that operates similarly to the Citi Bike system in New York City. Fortunately, Citi has made the ride data publicly available [here.](https://www.citibikenyc.com/system-data)
 
 For this project, I have used data from August 2019. I aim to answer the following questions: 
 1) How long do trips typcically last? 
