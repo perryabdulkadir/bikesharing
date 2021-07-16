@@ -19,6 +19,8 @@ For this project, I have used data from August 2019. I aim to answer the followi
 ### Resources
 Software: Jupyter Notebook, Python 3.8.6, Tableau Public 2020.4
 
+Python packages: pandas
+
 ## Analysis
 
 ### Data Cleaning
