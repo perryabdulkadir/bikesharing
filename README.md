@@ -16,8 +16,13 @@ For this project, I have used data from August 2019. I aim to answer the followi
 5) How evenly are rides distributed across the bike fleet? 
 
 
-## Resources
+### Resources
 Software: Jupyter Notebook, Python 3.8.6, Tableau Public 2020.4
+
+## Analysis
+
+### Data Cleaning
+
 
 ## Results
 
