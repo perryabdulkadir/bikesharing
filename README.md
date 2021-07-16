@@ -6,10 +6,10 @@ Using Python and Tableau to create visualizations analyzing the Citi bike ridesh
 **[Link to Tableau Story](https://public.tableau.com/profile/perry2045#!/vizhome/Module14ChallengeFinal_16155988479150/Story1?publish=yes)**
 
 ## Bikesharing Overview
-In this project, I have created a series of data visualizations in anticipation of a pitch meeting; we are going to propose a bikesharing system for Des Moines that operates similarly to the Citi Bike system in New York City. Fortunately, Citi has made the ride data publicly available [here.](https://www.citibikenyc.com/system-data)
+In this project, I have created a series of data visualizations in anticipation of a pitch meeting; we are going to propose a bike sharing system for Des Moines that operates similarly to the Citi Bike system in New York City. Fortunately, Citi has made the ride data publicly available [here.](https://www.citibikenyc.com/system-data)
 
 For this project, I have used data from August 2019. I aim to answer the following questions: 
-1) How long do trips typcically last? 
+1) How long do trips typically last? 
 2) How does use behavior vary between men and women? 
 3) What times are Citi Bikes most heavily used? 
 4) Where are Citi Bikes used most often? 
@@ -72,10 +72,10 @@ The number of rides per unique bike vary wildly; usage per bike will need to be 
 ## Summary
 
 ### Results
-There are a few key takeaways as we look to implementing a bikesharing program in Des Moines. First, we will likely see relatively greater traffic from commuters during weekday rush hours as Des Moines is not as big of a tourist destination as NYC. Second, targeting will likely be initially more successful if aimed at men as the majority of Citi Bike users in NYC are men. 
+There are a few key takeaways as we look to implement a bike sharing program in Des Moines. First, we will likely see relatively greater traffic from commuters during weekday rush hours as Des Moines is not as big of a tourist destination as NYC. Second, targeting will likely be initially more successful if aimed at men as the majority of Citi Bike users in NYC are men. 
 
 ### Future Analyses
-There are a number of key deifferences between the NYC and Des Moines markets that are worthy of exploration. First, in NYC the large majority of rides lasted around 15 minutes, and almost all of them were less than an hour. However, NYC is much more densely packed than Des Moines. It is possible that ride times could be much greater in a place with urban sprawl. For that reason, it is worth investigating a ride sharing program in a city with greater urban sprawl. Second, it is important to consider the factor of weather. NYC has a much milder climate than Des Moines; it is reasonable to think that ridership in Des Moines will fall off much more steeply than in New York during the winter. For this reason, it would be worthwhile to investigate bikesharing programs in similarly cold Upper Midwestern/Great Lakes metro areas such as the Twin Cities, Milwaukee, or Chicago.
+There are a number of key differences between the NYC and Des Moines markets that are worthy of exploration. First, in NYC the large majority of rides lasted around 15 minutes, and almost all of them were less than an hour. However, NYC is much more densely packed than Des Moines. It is possible that ride times could be much greater in a place with urban sprawl. For that reason, it is worth investigating a ride sharing program in a city with greater urban sprawl. Second, it is important to consider the factor of weather. NYC has a much milder climate than Des Moines; it is reasonable to think that ridership in Des Moines will fall off much more steeply than in New York during the winter. For this reason, it would be worthwhile to investigate bike sharing programs in similarly cold Upper Midwestern/Great Lakes metro areas such as the Twin Cities, Milwaukee, or Chicago.
 
 
 -----
