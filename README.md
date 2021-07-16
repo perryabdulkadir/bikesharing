@@ -26,7 +26,7 @@ Python packages: pandas
 ### Data Cleaning
 After loading in the data frame, I checked the data types of all features. 
 
-![dtypes](Resources/dtypes.png)
+![dtypes](https://github.com/perryabdulkadir/bikesharing/blob/main/Resources/dtypes.PNG)
 
 Seeing that tripduration, a temporal variable, was marked as an integer, I converted it to datetime format. 
 
