@@ -24,7 +24,23 @@ Python packages: pandas
 ## Analysis
 
 ### Data Cleaning
+After loading in the data frame, I checked the data types of all features. 
 
+![Story1](Resources/dtypes.png)
+
+Seeing that tripduration, a temporal variable, was marked as an integer, I converted it to datetime format. 
+
+```
+bike_data_datetime = pd.to_datetime(bike_data_df['tripduration'], unit = 'm')
+```
+
+Next, I exported the cleaned dataset to a .csv without the index. 
+
+```
+concat_bike_data = pd.concat([bike_data_df, bike_data_datetime], axis = 1)
+
+concat_bike_data.to_csv('concat_bike_data.csv', index = False)
+```
 
 ## Results
 
